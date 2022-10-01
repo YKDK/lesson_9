@@ -1,0 +1,7 @@
+.container img{
+  max-width: 3200px;
+  margin: 0 auto;
+  display: block;
+  border: 1px solid #000;
+
+}
